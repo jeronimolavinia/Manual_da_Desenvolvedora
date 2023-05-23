@@ -6,7 +6,8 @@
 
 *Emulador Android => Android Open*
 
-1. **REACT NATIVE =>  Biblioteca javascrpipt com codigo nativo para criar apliações web/mobile** > Com o react native, é possivel criar aplicações com código nativo para Android, IOS e SPA web
+1. **REACT NATIVE =>  Biblioteca javascrpipt com codigo nativo para criar apliações web/mobile** 
+    > Com o react native, é possivel criar aplicações com código nativo para Android, IOS e SPA web
 
 2. **EXPO => Biblioteca auxiliadora onde facilita a criação de aplicativos para dispositivos móveis pelo react native**
 
