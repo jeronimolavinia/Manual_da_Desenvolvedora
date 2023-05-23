@@ -11,7 +11,7 @@
 ## Conceitos
 
 ### REACT NATIVE =>  Biblioteca javascript com código nativo para criar apliações web/mobile
-> **Com o react native, é possivel criar aplicações com código nativo para Android, IOS e SPA web**
+> **Com o react native é possivel criar aplicações com código nativo para Android, IOS e SPA web**
 
 ### EXPO => Biblioteca auxiliadora onde facilita a criação de aplicativos para dispositivos móveis pelo react native
 
