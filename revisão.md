@@ -8,6 +8,8 @@
 
 *Emulador Android => Android Open*
 
+## Conceitos
+
 ### **REACT NATIVE =>  Biblioteca javascript com codigo nativo para criar apliações web/mobile** 
 > Com o react native, é possivel criar aplicações com código nativo para Android, IOS e SPA web
 
