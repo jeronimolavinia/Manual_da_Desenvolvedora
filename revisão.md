@@ -1,7 +1,9 @@
 # Revisão para avaliação => 24/05/2023
 
 *Instalação => npx create-expo-app --template*
-*Terminal => npm start/npm run android* 
+</>
+*Terminal => npm start/npm run android*
+</>
 *Emulador Android => Android Open*
 
 **REACT NATIVE =>  Biblioteca javascrpipt com codigo nativo para criar apliações web/mobile**
