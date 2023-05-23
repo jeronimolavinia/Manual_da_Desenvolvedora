@@ -1,5 +1,7 @@
 # Revisão para avaliação => 24/05/2023
 
+## Comandos
+
 *Instalação => npx create-expo-app nome-do-app --template* 
 
 *Terminal => npm start/npm run android* 
